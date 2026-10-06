@@ -1,0 +1,2 @@
+Model,P@5,Recall@5,MRR,MAP,NDCG@5,NDCG@10
+Transformer,0.125,0.1881,0.279,0.1886,0.1774,0.2008

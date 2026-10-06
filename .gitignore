@@ -1,0 +1,56 @@
+# =========================
+# DATASETS - DO NOT PUSH
+# =========================
+data/
+data/raw/
+data/processed/
+*.zip
+*.rar
+*.7z
+*.parquet
+
+# If you have specific dataset folders elsewhere
+AILA2019/
+"AILA 2019"/
+pdfs/
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# =========================
+# JUPYTER
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# TRAINED MODEL FILES
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# =========================
+# SECRETS
+# =========================
+.env
+.env.*
+
+# =========================
+# VS CODE
+# =========================
+.vscode/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db

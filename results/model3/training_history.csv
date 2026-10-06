@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,val_mrr,val_map,val_ndcg5
+
