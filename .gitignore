@@ -54,3 +54,11 @@ env/
 # =========================
 .DS_Store
 Thumbs.db
+
+# Ignore model directories and weights
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
