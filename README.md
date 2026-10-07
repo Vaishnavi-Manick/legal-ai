@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Legal AI: AILA 2019 Legal Information Retrieval & Precedent Ranking
 
 Supervised legal query-document relevance ranking and precedent retrieval system trained on the **AILA 2019 dataset**.
@@ -18,7 +17,6 @@ legal_ai/
 │   ├── 01_data_preparation.ipynb    # Dataset loading & corpus stats
 │   ├── 02_bilstm.ipynb              # BiLSTM model training & evaluation notebook
 │   ├── 03_transformer.ipynb         # Legal Transformer Cross-Encoder notebook
-│   ├── 04_model3.ipynb              # Placeholder notebook for Model 3
 │   └── 05_model_comparison.ipynb   # Comparative TREC metrics analysis
 │
 ├── src/
@@ -30,21 +28,20 @@ legal_ai/
 │   ├── utils.py                     # TREC IR metrics calculation & plotting helpers
 │   ├── training.py                  # Seed setting & device management utilities
 │   ├── evaluation.py                # Reusable evaluation API wrapper
+│   ├── inference.py                 # LegalSearchEngine two-stage inference engine
 │   └── models/
 │       ├── bilstm.py                # Siamese BiLSTM Dual-Encoder architecture
-│       ├── transformer.py           # Legal Transformer Cross-Encoder architecture
-│       └── model3.py                # Placeholder for upcoming Model 3 architecture
+│       └── transformer.py           # Legal Transformer Cross-Encoder architecture
 │
 ├── models/
 │   ├── bilstm/
 │   │   └── bilstm_model.pt          # Trained BiLSTM PyTorch model checkpoint
-│   ├── transformer/
-│   │   ├── transformer_model.pt     # Trained Transformer model checkpoint
-│   │   ├── best_checkpoint.pt       # Checkpoint weights
-│   │   ├── config.json              # Transformer model configuration
-│   │   ├── model.safetensors        # Safetensors model weights
-│   │   └── tokenizer.json           # Tokenizer definition
-│   └── model3/                      # Reserved for Model 3 checkpoints
+│   └── transformer/
+│       ├── transformer_model.pt     # Trained Transformer model checkpoint
+│       ├── best_checkpoint.pt       # Checkpoint weights
+│       ├── config.json              # Transformer model configuration
+│       ├── model.safetensors        # Safetensors model weights
+│       └── tokenizer.json           # Tokenizer definition
 │
 ├── results/
 │   ├── bilstm/
@@ -59,41 +56,41 @@ legal_ai/
 │   │   ├── training_history.csv     # Training & validation history across epochs
 │   │   └── loss_plot.png            # Training vs Validation loss curve plot
 │   │
-│   ├── model3/
-│   │   ├── metrics.csv              # Placeholder metrics for Model 3
-│   │   ├── predictions.csv          # Placeholder predictions for Model 3
-│   │   └── training_history.csv     # Placeholder training history for Model 3
-│   │
 │   └── comparison/
-│       └── model_comparison.csv     # Combined model performance comparison
+│       ├── model_comparison.csv     # Evaluated model performance comparison
+│       └── README.md                # Research evaluation & model selection report
+│
+├── frontend/
+│   └── app.py                       # Streamlit Web UI application
 │
 ├── research/
 │   └── papers/                      # Research papers on Legal Information Retrieval & RAG
 │
 ├── scripts/
 │   ├── train_bilstm.py              # Script to train & evaluate BiLSTM model
-│   ├── train_transformer.py         # Script to train & evaluate Transformer model
-│   ├── generate_notebook.py         # Generator for 02_bilstm.ipynb
-│   └── generate_transformer_notebook.py # Generator for 03_transformer.ipynb
+│   └── train_transformer.py         # Script to train & evaluate Transformer model
 │
 ├── requirements.txt                 # Project dependencies
-├── README.md                        # Project documentation
-└── .gitignore                       # Git ignore rules
+└── README.md                        # Project documentation
 ```
 
-## 📊 Current Known Benchmark Results
+## 📊 Final Comparative Evaluation Results
 
-| Model Architecture | P@5 | Recall@5 | MRR | MAP | NDCG@5 | NDCG@10 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **BiLSTM** | 0.0000 | 0.0000 | 0.0082 | 0.0068 | 0.0000 | 0.0051 |
-| **Transformer** | **0.1250** | **0.1881** | **0.2790** | **0.1886** | **0.1774** | **0.2008** |
-| **Model 3** | TBD | TBD | TBD | TBD | TBD | TBD |
+| Model Architecture | Precision@5 | Recall@5 | MRR | MAP | NDCG@5 | NDCG@10 | Selected |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Siamese BiLSTM + Attention** | 0.0000 | 0.0000 | 0.0082 | 0.0068 | 0.0000 | 0.0051 | ❌ |
+| **Legal Transformer Cross-Encoder** | **0.1250** | **0.1881** | **0.2790** | **0.1886** | **0.1774** | **0.2008** | **✅ Final Selected Model** |
+
+---
 
 ## 🚀 Execution Instructions
 
-### Running Training Scripts
-To run model training & evaluation from the root directory:
+### Running Streamlit Web UI
+```bash
+python -m streamlit run frontend/app.py
+```
 
+### Running Model Training Scripts
 ```bash
 # Train BiLSTM Model
 python scripts/train_bilstm.py
@@ -101,12 +98,3 @@ python scripts/train_bilstm.py
 # Train Legal Transformer Cross-Encoder
 python scripts/train_transformer.py
 ```
-
-### Running Notebooks
-Launch Jupyter Notebook or VS Code Jupyter extension and open any notebook in the `notebooks/` directory.
-=======
-## 📂 Dataset
-
-Dataset source: [AILA 2019 Dataset](https://zenodo.org/records/4063986)
->>>>>>> 1a8d947a9fdfa2b52c8163150496095a2b2184e8
-

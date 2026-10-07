@@ -1,53 +1,42 @@
 # =========================
-# DATASETS - DO NOT PUSH
-# =========================
-data/
-data/raw/
-data/processed/
-*.zip
-*.rar
-*.7z
-*.parquet
-
-# If you have specific dataset folders elsewhere
-AILA2019/
-"AILA 2019"/
-pdfs/
-
-# =========================
-# PYTHON
+# Python
 # =========================
 __pycache__/
 *.py[cod]
+*.pyo
 
-# Virtual environment
+# =========================
+# Virtual Environment
+# =========================
 .venv/
 venv/
 env/
 
 # =========================
-# JUPYTER
+# Jupyter
 # =========================
 .ipynb_checkpoints/
 
 # =========================
-# TRAINED MODEL FILES
+# Dataset - DO NOT PUSH
 # =========================
+data/
+*.txt
+
+# =========================
+# Large trained models
+# =========================
+models/
 *.pt
 *.pth
-*.ckpt
 *.bin
+*.safetensors
 
 # =========================
-# SECRETS
-# =========================
-.env
-.env.*
-
-# =========================
-# VS CODE
+# IDE
 # =========================
 .vscode/
+.idea/
 
 # =========================
 # OS
@@ -55,10 +44,8 @@ env/
 .DS_Store
 Thumbs.db
 
-# Ignore model directories and weights
-models/
-*.pt
-*.pth
-*.bin
-*.safetensors
-*.ckpt
+# =========================
+# Logs / temporary files
+# =========================
+*.log
+*.tmp
