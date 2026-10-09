@@ -1,0 +1,509 @@
+{
+  "total_documents_processed": 50,
+  "native_pdfs_count": 45,
+  "scanned_pdfs_count": 5,
+  "low_quality_flagged_count": 5,
+  "total_chunks_generated": 740,
+  "documents": [
+    {
+      "filename": "judgment_001.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_001.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 6
+    },
+    {
+      "filename": "judgment_002.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_002.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 12,
+      "chunks_count": 32
+    },
+    {
+      "filename": "judgment_003.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_003.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 8,
+      "chunks_count": 20
+    },
+    {
+      "filename": "judgment_004.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_004.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 4,
+      "chunks_count": 10
+    },
+    {
+      "filename": "judgment_005.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_005.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 1,
+      "chunks_count": 2
+    },
+    {
+      "filename": "judgment_006.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_006.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 7,
+      "chunks_count": 17
+    },
+    {
+      "filename": "judgment_007.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_007.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 7,
+      "chunks_count": 17
+    },
+    {
+      "filename": "judgment_008.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_008.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 6,
+      "chunks_count": 15
+    },
+    {
+      "filename": "judgment_009.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_009.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 4,
+      "chunks_count": 8
+    },
+    {
+      "filename": "judgment_010.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_010.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 13,
+      "chunks_count": 36
+    },
+    {
+      "filename": "judgment_011.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_011.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 5,
+      "chunks_count": 11
+    },
+    {
+      "filename": "judgment_012.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_012.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 7
+    },
+    {
+      "filename": "judgment_013.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_013.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 13,
+      "chunks_count": 31
+    },
+    {
+      "filename": "judgment_014.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_014.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 46,
+      "chunks_count": 125
+    },
+    {
+      "filename": "judgment_015.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_015.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 3
+    },
+    {
+      "filename": "judgment_016.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_016.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 5
+    },
+    {
+      "filename": "judgment_017.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_017.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 11,
+      "chunks_count": 25
+    },
+    {
+      "filename": "judgment_018.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_018.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 7
+    },
+    {
+      "filename": "judgment_019.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_019.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 4,
+      "chunks_count": 8
+    },
+    {
+      "filename": "judgment_020.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_020.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 8
+    },
+    {
+      "filename": "judgment_021.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_021.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 7
+    },
+    {
+      "filename": "judgment_022.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_022.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 4
+    },
+    {
+      "filename": "judgment_023.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_023.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 3
+    },
+    {
+      "filename": "judgment_024.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_024.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 5
+    },
+    {
+      "filename": "judgment_025.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_025.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 7,
+      "chunks_count": 17
+    },
+    {
+      "filename": "judgment_026.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_026.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 19,
+      "chunks_count": 45
+    },
+    {
+      "filename": "judgment_027.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_027.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 9,
+      "chunks_count": 23
+    },
+    {
+      "filename": "judgment_028.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_028.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 8,
+      "chunks_count": 21
+    },
+    {
+      "filename": "judgment_029.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_029.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 6
+    },
+    {
+      "filename": "judgment_030.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_030.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 5,
+      "chunks_count": 14
+    },
+    {
+      "filename": "judgment_031.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_031.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 1,
+      "chunks_count": 2
+    },
+    {
+      "filename": "judgment_032.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_032.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 8,
+      "chunks_count": 19
+    },
+    {
+      "filename": "judgment_033.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_033.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 6,
+      "chunks_count": 14
+    },
+    {
+      "filename": "judgment_034.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_034.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 4,
+      "chunks_count": 11
+    },
+    {
+      "filename": "judgment_035.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_035.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 2,
+      "chunks_count": 4
+    },
+    {
+      "filename": "judgment_036.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 9,
+      "chunks_count": 23
+    },
+    {
+      "filename": "judgment_037.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_037.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 5,
+      "chunks_count": 13
+    },
+    {
+      "filename": "judgment_038.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_038.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 4,
+      "chunks_count": 11
+    },
+    {
+      "filename": "judgment_039.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_039.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 7,
+      "chunks_count": 16
+    },
+    {
+      "filename": "judgment_040.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_040.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 5,
+      "chunks_count": 12
+    },
+    {
+      "filename": "judgment_041.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_041.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 9,
+      "chunks_count": 22
+    },
+    {
+      "filename": "judgment_042.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_042.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 7
+    },
+    {
+      "filename": "judgment_043.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_043.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 3,
+      "chunks_count": 7
+    },
+    {
+      "filename": "judgment_044.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_044.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 10,
+      "chunks_count": 23
+    },
+    {
+      "filename": "judgment_045.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_045.pdf",
+      "is_scanned": false,
+      "is_corrupt": false,
+      "ocr_quality_score": 1.0,
+      "is_low_quality": false,
+      "num_pages": 8,
+      "chunks_count": 18
+    },
+    {
+      "filename": "judgment_046.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_046.pdf",
+      "is_scanned": true,
+      "is_corrupt": false,
+      "ocr_quality_score": 0.0,
+      "is_low_quality": true,
+      "num_pages": 1,
+      "chunks_count": 0
+    },
+    {
+      "filename": "judgment_047.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_047.pdf",
+      "is_scanned": true,
+      "is_corrupt": false,
+      "ocr_quality_score": 0.0,
+      "is_low_quality": true,
+      "num_pages": 1,
+      "chunks_count": 0
+    },
+    {
+      "filename": "judgment_048.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_048.pdf",
+      "is_scanned": true,
+      "is_corrupt": false,
+      "ocr_quality_score": 0.0,
+      "is_low_quality": true,
+      "num_pages": 1,
+      "chunks_count": 0
+    },
+    {
+      "filename": "judgment_049.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_049.pdf",
+      "is_scanned": true,
+      "is_corrupt": false,
+      "ocr_quality_score": 0.0,
+      "is_low_quality": true,
+      "num_pages": 1,
+      "chunks_count": 0
+    },
+    {
+      "filename": "judgment_050.pdf",
+      "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_050.pdf",
+      "is_scanned": true,
+      "is_corrupt": false,
+      "ocr_quality_score": 0.0,
+      "is_low_quality": true,
+      "num_pages": 1,
+      "chunks_count": 0
+    }
+  ]
+}

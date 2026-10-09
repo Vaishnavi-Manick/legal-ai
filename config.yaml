@@ -1,0 +1,36 @@
+environment:
+  device: "cpu"  # Options: cpu, cuda
+  vram_budget_gb: 4.0
+  ollama_base_url: "http://localhost:11434"
+  llm_model: "qwen2.5:3b"
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  reranker_model: "models/transformer"
+
+paths:
+  sample_pdf_dir: "data/sample_pdfs"
+  processed_dir: "data/processed"
+  reports_dir: "reports"
+  vector_db_dir: "data/qdrant_db"
+  bm25_index_dir: "data/bm25_index"
+
+ingestion:
+  min_text_chars_per_page: 50
+  scanned_ocr_threshold: 0.4
+  chunking:
+    min_chunk_tokens: 150
+    max_chunk_tokens: 350
+    overlap_tokens: 40
+
+retrieval:
+  bm25_top_k: 50
+  dense_top_k: 50
+  rrf_k: 60
+  rerank_candidate_k: 50
+  final_top_k: 5
+
+query_pipeline:
+  query_rewrite_enabled: false
+  citation_routing_enabled: true
+  rrf_k: 60
+  candidate_pool_size: 50
+  final_top_k: 5

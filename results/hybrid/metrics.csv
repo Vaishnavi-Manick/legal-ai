@@ -1,0 +1,2 @@
+Model,P@5,Recall@5,MRR,MAP,NDCG@5,NDCG@10
+Hybrid_BM25_Dense_RRF_TransformerV1,0.045,0.0648,0.1092,0.0483,0.0563,0.0664

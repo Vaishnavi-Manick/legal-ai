@@ -1,0 +1,539 @@
+{
+  "timestamp": "2026-10-08 22:41:46",
+  "queries": [
+    {
+      "original_query": "right to privacy under Article 21",
+      "rewritten_query": "right to privacy under Article 21",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "is_citation": false,
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "used_fallback": false,
+      "fallback_reason": null,
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0311,
+        "dense_time": 0.0323,
+        "rrf_time": 0.0001,
+        "reranker_time": 0.9697,
+        "total_time": 1.0334
+      },
+      "bm25_top": [
+        {
+          "chunk_id": "judgment_036_chk_0005",
+          "case_id": "judgment_036",
+          "score": 7.9317
+        },
+        {
+          "chunk_id": "judgment_036_chk_0003",
+          "case_id": "judgment_036",
+          "score": 7.9043
+        },
+        {
+          "chunk_id": "judgment_036_chk_0004",
+          "case_id": "judgment_036",
+          "score": 7.5705
+        },
+        {
+          "chunk_id": "judgment_039_chk_0009",
+          "case_id": "judgment_039",
+          "score": 7.1206
+        },
+        {
+          "chunk_id": "judgment_041_chk_0006",
+          "case_id": "judgment_041",
+          "score": 7.0335
+        }
+      ],
+      "dense_top": [
+        {
+          "chunk_id": "judgment_013_chk_0025",
+          "case_id": "judgment_013",
+          "score": 0.422
+        },
+        {
+          "chunk_id": "judgment_036_chk_0007",
+          "case_id": "judgment_036",
+          "score": 0.4117
+        },
+        {
+          "chunk_id": "judgment_014_chk_0067",
+          "case_id": "judgment_014",
+          "score": 0.3888
+        },
+        {
+          "chunk_id": "judgment_002_chk_0020",
+          "case_id": "judgment_002",
+          "score": 0.3861
+        },
+        {
+          "chunk_id": "judgment_008_chk_0007",
+          "case_id": "judgment_008",
+          "score": 0.3718
+        }
+      ],
+      "rrf_top": [
+        {
+          "chunk_id": "judgment_013_chk_0025",
+          "case_id": "judgment_013",
+          "score": 0.0313
+        },
+        {
+          "chunk_id": "judgment_036_chk_0007",
+          "case_id": "judgment_036",
+          "score": 0.0308
+        },
+        {
+          "chunk_id": "judgment_041_chk_0006",
+          "case_id": "judgment_041",
+          "score": 0.0293
+        },
+        {
+          "chunk_id": "judgment_036_chk_0005",
+          "case_id": "judgment_036",
+          "score": 0.0291
+        },
+        {
+          "chunk_id": "judgment_002_chk_0020",
+          "case_id": "judgment_002",
+          "score": 0.0283
+        }
+      ],
+      "final_top_5": [
+        {
+          "rank": 1,
+          "score": 0.4311,
+          "chunk_id": "judgment_036_chk_0004",
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "date": "4 November 1997",
+          "bench": "D. P. Wadhwa, J.\n1. Leave granted.\n2. The appellants are aggrieved by the judgment dated September 23, 1996 of the Division Bench of the High\nCourt of Judicature at Allahabad (Lucknow Bench) dismissing their writ petition filed u",
+          "citation": "writ petition filed u/arts. 226 and 227 of the",
+          "section_type": "reasoning",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "if the article consists wholly or in part of any filthy, putrid, rotten, decomposed or diseased animal or, vegetable substance or is insect-infested or is otherwise unfit for human consumption; 8. Under clause (viiib) \"manufacture\" includes any proce..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4293,
+          "chunk_id": "judgment_002_chk_0020",
+          "case_id": "judgment_002",
+          "case_name": "Prabhakaran Nair, Etc. v State Of Tamil Nadu And Ors.",
+          "date": "3 September 1987",
+          "bench": "Sabyasachi Mukharji, J.\n1. There is",
+          "citation": "Writ Petition No. 506 of 1986",
+          "section_type": "unknown",
+          "page_start": 8,
+          "page_end": 8,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_002.pdf",
+          "evidence_snippet": "landlord's rights is the acute shortage of accommodation and the consequent need to give protection to the tenants against unrestricted eviction. The nature, the form and the extent of the restrictions to be imposed on the landlord's right and the co..."
+        },
+        {
+          "rank": 3,
+          "score": 0.4282,
+          "chunk_id": "judgment_036_chk_0005",
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "date": "4 November 1997",
+          "bench": "D. P. Wadhwa, J.\n1. Leave granted.\n2. The appellants are aggrieved by the judgment dated September 23, 1996 of the Division Bench of the High\nCourt of Judicature at Allahabad (Lucknow Bench) dismissing their writ petition filed u",
+          "citation": "writ petition filed u/arts. 226 and 227 of the",
+          "section_type": "reasoning",
+          "page_start": 3,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "a copy of the report of the public analyst along with the complaint.\" U/s. 12 of the Act a purchaser may also have food analysed. This Section reads as under: \"12. Purchaser may have food analysed. Nothing contained in this act shall be held to preve..."
+        },
+        {
+          "rank": 4,
+          "score": 0.4276,
+          "chunk_id": "judgment_034_chk_0010",
+          "case_id": "judgment_034",
+          "case_name": "art. 32 of the Constitution illustrates how an attempt has been made to circumvent the law\ndeclared by this Court in Triloki Nath & Another v. State of Jammu & Kashmir & Others,",
+          "date": "23 February 1971",
+          "bench": "A. N. Grover, J.\n1. This petition u",
+          "citation": "Writ Petition No. 108 of 1969",
+          "section_type": "order",
+          "page_start": 4,
+          "page_end": 4,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_034.pdf",
+          "evidence_snippet": "to express no opinion on their applicability. 10. The present petition shall stand allowed in the manner indicated above. The petitioners shall be entitled to their costs in this Court. Petition allowed...."
+        },
+        {
+          "rank": 5,
+          "score": 0.4276,
+          "chunk_id": "judgment_036_chk_0007",
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "date": "4 November 1997",
+          "bench": "D. P. Wadhwa, J.\n1. Leave granted.\n2. The appellants are aggrieved by the judgment dated September 23, 1996 of the Division Bench of the High\nCourt of Judicature at Allahabad (Lucknow Bench) dismissing their writ petition filed u",
+          "citation": "writ petition filed u/arts. 226 and 227 of the",
+          "section_type": "reasoning",
+          "page_start": 3,
+          "page_end": 4,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "When a sample of any article of food [or adulterant] is taken under sub-s. (1) or sub-s. (2) of Section 10, [the food inspector shall, by the immediately succeeding working day, send a sample of the article of food or adulterant or both, as the case ..."
+        }
+      ]
+    },
+    {
+      "original_query": "constitutional validity of preventive detention",
+      "rewritten_query": "constitutional validity of preventive detention",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "is_citation": false,
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "used_fallback": false,
+      "fallback_reason": null,
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0022,
+        "dense_time": 0.0213,
+        "rrf_time": 0.0001,
+        "reranker_time": 0.996,
+        "total_time": 1.0198
+      },
+      "bm25_top": [
+        {
+          "chunk_id": "judgment_014_chk_0011",
+          "case_id": "judgment_014",
+          "score": 9.2672
+        },
+        {
+          "chunk_id": "judgment_002_chk_0022",
+          "case_id": "judgment_002",
+          "score": 6.7534
+        },
+        {
+          "chunk_id": "judgment_017_chk_0019",
+          "case_id": "judgment_017",
+          "score": 6.6979
+        },
+        {
+          "chunk_id": "judgment_028_chk_0009",
+          "case_id": "judgment_028",
+          "score": 6.6163
+        },
+        {
+          "chunk_id": "judgment_038_chk_0004",
+          "case_id": "judgment_038",
+          "score": 6.6029
+        }
+      ],
+      "dense_top": [
+        {
+          "chunk_id": "judgment_013_chk_0029",
+          "case_id": "judgment_013",
+          "score": 0.5495
+        },
+        {
+          "chunk_id": "judgment_013_chk_0022",
+          "case_id": "judgment_013",
+          "score": 0.517
+        },
+        {
+          "chunk_id": "judgment_013_chk_0025",
+          "case_id": "judgment_013",
+          "score": 0.5158
+        },
+        {
+          "chunk_id": "judgment_013_chk_0021",
+          "case_id": "judgment_013",
+          "score": 0.5058
+        },
+        {
+          "chunk_id": "judgment_013_chk_0024",
+          "case_id": "judgment_013",
+          "score": 0.4855
+        }
+      ],
+      "rrf_top": [
+        {
+          "chunk_id": "judgment_013_chk_0022",
+          "case_id": "judgment_013",
+          "score": 0.0304
+        },
+        {
+          "chunk_id": "judgment_013_chk_0021",
+          "case_id": "judgment_013",
+          "score": 0.0301
+        },
+        {
+          "chunk_id": "judgment_002_chk_0022",
+          "case_id": "judgment_002",
+          "score": 0.028
+        },
+        {
+          "chunk_id": "judgment_009_chk_0005",
+          "case_id": "judgment_009",
+          "score": 0.0246
+        },
+        {
+          "chunk_id": "judgment_018_chk_0003",
+          "case_id": "judgment_018",
+          "score": 0.0238
+        }
+      ],
+      "final_top_5": [
+        {
+          "rank": 1,
+          "score": 0.4311,
+          "chunk_id": "judgment_034_chk_0004",
+          "case_id": "judgment_034",
+          "case_name": "art. 32 of the Constitution illustrates how an attempt has been made to circumvent the law\ndeclared by this Court in Triloki Nath & Another v. State of Jammu & Kashmir & Others,",
+          "date": "23 February 1971",
+          "bench": "A. N. Grover, J.\n1. This petition u",
+          "citation": "Writ Petition No. 108 of 1969",
+          "section_type": "unknown",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_034.pdf",
+          "evidence_snippet": "the expression \"class \" means a homogeneous section of the people grouped together because of certain likeness or common traits, and who are identifiable by some common attributes such as status, rank, occupation, residence in a locality, race, relig..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4216,
+          "chunk_id": "judgment_002_chk_0023",
+          "case_id": "judgment_002",
+          "case_name": "Prabhakaran Nair, Etc. v State Of Tamil Nadu And Ors.",
+          "date": "3 September 1987",
+          "bench": "Sabyasachi Mukharji, J.\n1. There is",
+          "citation": "Writ Petition No. 506 of 1986",
+          "section_type": "unknown",
+          "page_start": 9,
+          "page_end": 9,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_002.pdf",
+          "evidence_snippet": "that the return from old and dilapidated buildings is very meagre and in several cases such buildings prove uneconomic for the landlords with the result that the condition of the building deteriorates and there are even collapses of such buildings. I..."
+        },
+        {
+          "rank": 3,
+          "score": 0.4196,
+          "chunk_id": "judgment_041_chk_0010",
+          "case_id": "judgment_041",
+          "case_name": "Amita v Union of India and Another",
+          "date": "11 August 2005",
+          "bench": "Tarun Chatterjee, J.\n1. Pursuant to an advertisement issued at the instance of the Banking Services Recruitment Board, Chennai (\nin short",
+          "citation": "Writ Petition (Civil) 31 of 2000",
+          "section_type": "facts",
+          "page_start": 4,
+          "page_end": 5,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_041.pdf",
+          "evidence_snippet": "the writ petitioner from appearing in the examination on the mere fact of disability which was not mentioned in the advertisement and which according to the writ petitioner is not an impediment for the post. We are therefore of the view that the acti..."
+        },
+        {
+          "rank": 4,
+          "score": 0.4176,
+          "chunk_id": "judgment_036_chk_0014",
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "date": "4 November 1997",
+          "bench": "D. P. Wadhwa, J.\n1. Leave granted.\n2. The appellants are aggrieved by the judgment dated September 23, 1996 of the Division Bench of the High\nCourt of Judicature at Allahabad (Lucknow Bench) dismissing their writ petition filed u",
+          "citation": "writ petition filed u/arts. 226 and 227 of the",
+          "section_type": "unknown",
+          "page_start": 6,
+          "page_end": 7,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "inherent powers u/s. 482 of the Code which it said could be exercised by the High Court either to prevent abuse of the process of any court or otherwise to secure the ends of justice. While laying down certain guidelines where the court will exercise..."
+        },
+        {
+          "rank": 5,
+          "score": 0.4167,
+          "chunk_id": "judgment_043_chk_0002",
+          "case_id": "judgment_043",
+          "case_name": "Kasambhai Ardul Rehmanbhai Shaikh v State Of Gujarat & Anr.",
+          "date": "13 February 1980",
+          "bench": "P. N. Bhagwati, J.\n1. This appeal by special leave is directed against a judgment of the Gujarat High Court in suo motu revision\nagainst an order passed by the Judicial Magistrate, First Class, Balasinor convicting the appellant of the offence\nunder s. 16(1)(a)(i) read with s. 7 of the Prevention of Food Adulteration Act, 1954 and sentencing him to suffer\nsimple imprisonment till the rising of the Court and to pay a fine of Rs. 125",
+          "citation": "Criminal Appeal Nos. 93-94 of 1980. Appeals by special leave from",
+          "section_type": "unknown",
+          "page_start": 1,
+          "page_end": 2,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_043.pdf",
+          "evidence_snippet": "even in respect of an offence of adulteration, it is possible to get away with a light sentence, the anti adulteration law will cease to have any meaning and validity. 4. It will be mocked at by the people as a futile legislative exercise. Moreover, ..."
+        }
+      ]
+    },
+    {
+      "original_query": "principles of natural justice",
+      "rewritten_query": "principles of natural justice",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "is_citation": false,
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "used_fallback": false,
+      "fallback_reason": null,
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0017,
+        "dense_time": 0.0281,
+        "rrf_time": 0.0002,
+        "reranker_time": 0.9782,
+        "total_time": 1.0082
+      },
+      "bm25_top": [
+        {
+          "chunk_id": "judgment_007_chk_0010",
+          "case_id": "judgment_007",
+          "score": 15.5795
+        },
+        {
+          "chunk_id": "judgment_009_chk_0003",
+          "case_id": "judgment_009",
+          "score": 15.2011
+        },
+        {
+          "chunk_id": "judgment_007_chk_0013",
+          "case_id": "judgment_007",
+          "score": 11.6011
+        },
+        {
+          "chunk_id": "judgment_007_chk_0006",
+          "case_id": "judgment_007",
+          "score": 10.1591
+        },
+        {
+          "chunk_id": "judgment_009_chk_0004",
+          "case_id": "judgment_009",
+          "score": 8.7462
+        }
+      ],
+      "dense_top": [
+        {
+          "chunk_id": "judgment_026_chk_0042",
+          "case_id": "judgment_026",
+          "score": 0.4983
+        },
+        {
+          "chunk_id": "judgment_007_chk_0010",
+          "case_id": "judgment_007",
+          "score": 0.4868
+        },
+        {
+          "chunk_id": "judgment_026_chk_0040",
+          "case_id": "judgment_026",
+          "score": 0.4706
+        },
+        {
+          "chunk_id": "judgment_007_chk_0007",
+          "case_id": "judgment_007",
+          "score": 0.4582
+        },
+        {
+          "chunk_id": "judgment_044_chk_0018",
+          "case_id": "judgment_044",
+          "score": 0.4536
+        }
+      ],
+      "rrf_top": [
+        {
+          "chunk_id": "judgment_007_chk_0010",
+          "case_id": "judgment_007",
+          "score": 0.0325
+        },
+        {
+          "chunk_id": "judgment_026_chk_0042",
+          "case_id": "judgment_026",
+          "score": 0.0305
+        },
+        {
+          "chunk_id": "judgment_007_chk_0007",
+          "case_id": "judgment_007",
+          "score": 0.0301
+        },
+        {
+          "chunk_id": "judgment_007_chk_0006",
+          "case_id": "judgment_007",
+          "score": 0.0299
+        },
+        {
+          "chunk_id": "judgment_009_chk_0003",
+          "case_id": "judgment_009",
+          "score": 0.0293
+        }
+      ],
+      "final_top_5": [
+        {
+          "rank": 1,
+          "score": 0.4239,
+          "chunk_id": "judgment_007_chk_0006",
+          "case_id": "judgment_007",
+          "case_name": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "date": "7 September 2010",
+          "bench": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "citation": null,
+          "section_type": "unknown",
+          "page_start": 3,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_007.pdf",
+          "evidence_snippet": "defending himself, then, provided there is 'substantial' compliance with the outward forms of the law, mere mistakes in procedure, mere inconsequential errors and omissions in the trial are regarded as venal by the Code and the trial is not vitiated ..."
+        },
+        {
+          "rank": 2,
+          "score": 0.4224,
+          "chunk_id": "judgment_044_chk_0019",
+          "case_id": "judgment_044",
+          "case_name": "Sahabuddin and another v State of Assam",
+          "date": "13 December 2012",
+          "bench": "Swatanter Kumar, J.\n1. It is the case of the prosecution that the accused Sahabuddin was married to one Sajna Begum, the\ndeceased on 17th May, 2001, and they were staying together. She was three months",
+          "citation": null,
+          "section_type": "unknown",
+          "page_start": 9,
+          "page_end": 9,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_044.pdf",
+          "evidence_snippet": "be circumspect while evaluating the evidence. But it would not be right in acquitting an accused person solely on account of the defect; to do so would tantamount to playing into the hands of the investigation officer if the investigation is designed..."
+        },
+        {
+          "rank": 3,
+          "score": 0.4196,
+          "chunk_id": "judgment_007_chk_0007",
+          "case_id": "judgment_007",
+          "case_name": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "date": "7 September 2010",
+          "bench": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "citation": null,
+          "section_type": "unknown",
+          "page_start": 3,
+          "page_end": 4,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_007.pdf",
+          "evidence_snippet": "kind is only a mockery of a trial and not of the kind envisaged by the laws of our land because either way they would be struck down at once. Other violations will not be so obvious and it may be possible to show that having regard to all that occurr..."
+        },
+        {
+          "rank": 4,
+          "score": 0.4183,
+          "chunk_id": "judgment_043_chk_0005",
+          "case_id": "judgment_043",
+          "case_name": "Kasambhai Ardul Rehmanbhai Shaikh v State Of Gujarat & Anr.",
+          "date": "13 February 1980",
+          "bench": "P. N. Bhagwati, J.\n1. This appeal by special leave is directed against a judgment of the Gujarat High Court in suo motu revision\nagainst an order passed by the Judicial Magistrate, First Class, Balasinor convicting the appellant of the offence\nunder s. 16(1)(a)(i) read with s. 7 of the Prevention of Food Adulteration Act, 1954 and sentencing him to suffer\nsimple imprisonment till the rising of the Court and to pay a fine of Rs. 125",
+          "citation": "Criminal Appeal Nos. 93-94 of 1980. Appeals by special leave from",
+          "section_type": "unknown",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_043.pdf",
+          "evidence_snippet": "might either convict an innocent accused by accepting the plea of guilty or let off a guilty accused with a light sentence, thus, subverting the process of law and frustrating the social objective and purpose of the anti adulteration statute. 8. This..."
+        },
+        {
+          "rank": 5,
+          "score": 0.4177,
+          "chunk_id": "judgment_007_chk_0014",
+          "case_id": "judgment_007",
+          "case_name": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "date": "7 September 2010",
+          "bench": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "citation": null,
+          "section_type": "unknown",
+          "page_start": 6,
+          "page_end": 6,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_007.pdf",
+          "evidence_snippet": "with reference to Sheela Devi. One of the fundamental principles of justice is that an accused should know what is the charge against him so that he can build his defence in regard to that charge. An accused cannot be punished for committing an offen..."
+        }
+      ]
+    }
+  ]
+}

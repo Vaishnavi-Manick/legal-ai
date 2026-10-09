@@ -1,0 +1,671 @@
+[
+  {
+    "query": "right to privacy under Article 21",
+    "original_v1_top_5": [
+      {
+        "rank": 1,
+        "case_id": "C2614",
+        "score": 0.4215,
+        "snippet": "State of Himachal Pradesh and others v High Court of Himachal Pradesh Supreme Court of India 4 October 1996 C.As. Nos. 1-990 of 1996 (Arising out of S"
+      },
+      {
+        "rank": 2,
+        "case_id": "C393",
+        "score": 0.4121,
+        "snippet": "University Of Delhi & Anr. v Anand Vardhan Chandal Supreme Court of India 9 July 1996 Appeal (civil) 2163(NCM) of 1978 The Order of the Court was as f"
+      },
+      {
+        "rank": 3,
+        "case_id": "C2243",
+        "score": 0.4096,
+        "snippet": "State of Madhya Pradesh v G. C. Mandawar Supreme Court of India 13 May 1954 Civil Appeal No. 2 of 1954. The Judgment was delivered by : T. L. Venkatar"
+      },
+      {
+        "rank": 4,
+        "case_id": "C1119",
+        "score": 0.4083,
+        "snippet": "Bhau Ram v B. Baijnath Singh Supreme Court of India 7 March 1962 C.A. No. 270 of 1955 with C.A. No. 430 of 1958 and C.A. No. 595 of 1960 The Judgment "
+      },
+      {
+        "rank": 5,
+        "case_id": "C885",
+        "score": 0.4079,
+        "snippet": "Pradyuman Bisht v Union of India and others Supreme Court of India 14 August 2017 Writ Petition(s)(Criminal) No(s). 99/2015, IA 10142/2015 10713/2015 "
+      }
+    ],
+    "bm25_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_036_chk_0005",
+        "case_id": "judgment_036",
+        "score": 7.9317
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_036_chk_0003",
+        "case_id": "judgment_036",
+        "score": 7.9043
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_036_chk_0004",
+        "case_id": "judgment_036",
+        "score": 7.5705
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_039_chk_0009",
+        "case_id": "judgment_039",
+        "score": 7.1206
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_041_chk_0006",
+        "case_id": "judgment_041",
+        "score": 7.0335
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_012_chk_0002",
+        "case_id": "judgment_012",
+        "score": 6.955
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_013_chk_0025",
+        "case_id": "judgment_013",
+        "score": 6.9107
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_036_chk_0007",
+        "case_id": "judgment_036",
+        "score": 6.7868
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_019_chk_0006",
+        "case_id": "judgment_019",
+        "score": 6.4324
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_012_chk_0005",
+        "case_id": "judgment_012",
+        "score": 6.18
+      }
+    ],
+    "dense_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_013_chk_0025",
+        "case_id": "judgment_013",
+        "score": 0.422
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_036_chk_0007",
+        "case_id": "judgment_036",
+        "score": 0.4117
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_014_chk_0067",
+        "case_id": "judgment_014",
+        "score": 0.3888
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_002_chk_0020",
+        "case_id": "judgment_002",
+        "score": 0.3861
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_008_chk_0007",
+        "case_id": "judgment_008",
+        "score": 0.3718
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_026_chk_0040",
+        "case_id": "judgment_026",
+        "score": 0.3644
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_017_chk_0010",
+        "case_id": "judgment_017",
+        "score": 0.3575
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_013_chk_0023",
+        "case_id": "judgment_013",
+        "score": 0.3571
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_017_chk_0002",
+        "case_id": "judgment_017",
+        "score": 0.3503
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_017_chk_0008",
+        "case_id": "judgment_017",
+        "score": 0.3496
+      }
+    ],
+    "raw_transformer_scores_before_aggregation": [
+      {
+        "chunk_id": "judgment_013_chk_0025",
+        "case_id": "judgment_013",
+        "score": 0.4187
+      },
+      {
+        "chunk_id": "judgment_036_chk_0007",
+        "case_id": "judgment_036",
+        "score": 0.4276
+      },
+      {
+        "chunk_id": "judgment_041_chk_0006",
+        "case_id": "judgment_041",
+        "score": 0.402
+      },
+      {
+        "chunk_id": "judgment_036_chk_0005",
+        "case_id": "judgment_036",
+        "score": 0.4282
+      },
+      {
+        "chunk_id": "judgment_002_chk_0020",
+        "case_id": "judgment_002",
+        "score": 0.4293
+      }
+    ],
+    "final_maxp_top_5": [
+      {
+        "rank": 1,
+        "case_id": "judgment_036",
+        "best_chunk_id": "judgment_036_chk_0004",
+        "score": 0.4311,
+        "snippet": "if the article consists wholly or in part of any filthy, putrid, rotten, decomposed or diseased animal or, vegetable substance or is insect-infested o"
+      },
+      {
+        "rank": 2,
+        "case_id": "judgment_002",
+        "best_chunk_id": "judgment_002_chk_0020",
+        "score": 0.4293,
+        "snippet": "landlord's rights is the acute shortage of accommodation and the consequent need to give protection to the tenants against unrestricted eviction. The "
+      },
+      {
+        "rank": 3,
+        "case_id": "judgment_034",
+        "best_chunk_id": "judgment_034_chk_0010",
+        "score": 0.4276,
+        "snippet": "to express no opinion on their applicability. 10. The present petition shall stand allowed in the manner indicated above. The petitioners shall be ent"
+      },
+      {
+        "rank": 4,
+        "case_id": "judgment_014",
+        "best_chunk_id": "judgment_014_chk_0105",
+        "score": 0.4224,
+        "snippet": "a complete exhaustive code or, in other words, expressly or impliedly evinced an intention to cover the whole field.\" and thereafter Section 18-G of t"
+      },
+      {
+        "rank": 5,
+        "case_id": "judgment_008",
+        "best_chunk_id": "judgment_008_chk_0007",
+        "score": 0.4218,
+        "snippet": "challenge to r. 5 must The next attack is on r. 8, which provides for district wise distribution of seats according to population of the district. Thi"
+      }
+    ]
+  },
+  {
+    "query": "constitutional validity of preventive detention",
+    "original_v1_top_5": [
+      {
+        "rank": 1,
+        "case_id": "C2249",
+        "score": 0.4207,
+        "snippet": "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others Supreme Court of India 9 July 1997 The Judgment was delivered by : J. S. V"
+      },
+      {
+        "rank": 2,
+        "case_id": "C1235",
+        "score": 0.4122,
+        "snippet": "Debendra Nath Goswami v State of West Bengal Supreme Court of India 31 October 1972 W.P. No. 258 of 1972. The Judgment was delivered by: DUA, J. 1. De"
+      },
+      {
+        "rank": 3,
+        "case_id": "C810",
+        "score": 0.4106,
+        "snippet": "Khudiram Das v State of West Bengal and Others Supreme Court of India 26 November 1974 W.P. No. 324 of 1974 The Judgment was delivered by : Hon'ble Ju"
+      },
+      {
+        "rank": 4,
+        "case_id": "C1111",
+        "score": 0.4098,
+        "snippet": "Niranjan Singh v State Of Madhya-Pradesh Supreme Court of India 18 July 1972 Writ Petition No. 450 of 1971. The Judgment was delivered by: P. Jaganmoh"
+      },
+      {
+        "rank": 5,
+        "case_id": "C1332",
+        "score": 0.4074,
+        "snippet": "Shri Saleh Mohammed v Union of India and Others Supreme Court of India 3 September 1980 W.P. (Criminal) No. 2192 of 1980. The Judgment was delivered b"
+      }
+    ],
+    "bm25_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_014_chk_0011",
+        "case_id": "judgment_014",
+        "score": 9.2672
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_002_chk_0022",
+        "case_id": "judgment_002",
+        "score": 6.7534
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_017_chk_0019",
+        "case_id": "judgment_017",
+        "score": 6.6979
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_028_chk_0009",
+        "case_id": "judgment_028",
+        "score": 6.6163
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_038_chk_0004",
+        "case_id": "judgment_038",
+        "score": 6.6029
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_014_chk_0012",
+        "case_id": "judgment_014",
+        "score": 6.4461
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_038_chk_0000",
+        "case_id": "judgment_038",
+        "score": 6.2364
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_018_chk_0003",
+        "case_id": "judgment_018",
+        "score": 5.8465
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_013_chk_0021",
+        "case_id": "judgment_013",
+        "score": 5.8226
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_013_chk_0022",
+        "case_id": "judgment_013",
+        "score": 5.59
+      }
+    ],
+    "dense_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_013_chk_0029",
+        "case_id": "judgment_013",
+        "score": 0.5495
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_013_chk_0022",
+        "case_id": "judgment_013",
+        "score": 0.517
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_013_chk_0025",
+        "case_id": "judgment_013",
+        "score": 0.5158
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_013_chk_0021",
+        "case_id": "judgment_013",
+        "score": 0.5058
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_013_chk_0024",
+        "case_id": "judgment_013",
+        "score": 0.4855
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_041_chk_0006",
+        "case_id": "judgment_041",
+        "score": 0.4742
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_032_chk_0015",
+        "case_id": "judgment_032",
+        "score": 0.472
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_013_chk_0030",
+        "case_id": "judgment_013",
+        "score": 0.4718
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_036_chk_0009",
+        "case_id": "judgment_036",
+        "score": 0.4695
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_013_chk_0027",
+        "case_id": "judgment_013",
+        "score": 0.4685
+      }
+    ],
+    "raw_transformer_scores_before_aggregation": [
+      {
+        "chunk_id": "judgment_013_chk_0022",
+        "case_id": "judgment_013",
+        "score": 0.4129
+      },
+      {
+        "chunk_id": "judgment_013_chk_0021",
+        "case_id": "judgment_013",
+        "score": 0.4135
+      },
+      {
+        "chunk_id": "judgment_002_chk_0022",
+        "case_id": "judgment_002",
+        "score": 0.4157
+      },
+      {
+        "chunk_id": "judgment_009_chk_0005",
+        "case_id": "judgment_009",
+        "score": 0.41
+      },
+      {
+        "chunk_id": "judgment_018_chk_0003",
+        "case_id": "judgment_018",
+        "score": 0.4083
+      }
+    ],
+    "final_maxp_top_5": [
+      {
+        "rank": 1,
+        "case_id": "judgment_034",
+        "best_chunk_id": "judgment_034_chk_0004",
+        "score": 0.4311,
+        "snippet": "the expression \"class \" means a homogeneous section of the people grouped together because of certain likeness or common traits, and who are identifia"
+      },
+      {
+        "rank": 2,
+        "case_id": "judgment_002",
+        "best_chunk_id": "judgment_002_chk_0023",
+        "score": 0.4216,
+        "snippet": "that the return from old and dilapidated buildings is very meagre and in several cases such buildings prove uneconomic for the landlords with the resu"
+      },
+      {
+        "rank": 3,
+        "case_id": "judgment_041",
+        "best_chunk_id": "judgment_041_chk_0010",
+        "score": 0.4196,
+        "snippet": "the writ petitioner from appearing in the examination on the mere fact of disability which was not mentioned in the advertisement and which according "
+      },
+      {
+        "rank": 4,
+        "case_id": "judgment_036",
+        "best_chunk_id": "judgment_036_chk_0014",
+        "score": 0.4176,
+        "snippet": "inherent powers u/s. 482 of the Code which it said could be exercised by the High Court either to prevent abuse of the process of any court or otherwi"
+      },
+      {
+        "rank": 5,
+        "case_id": "judgment_043",
+        "best_chunk_id": "judgment_043_chk_0002",
+        "score": 0.4167,
+        "snippet": "even in respect of an offence of adulteration, it is possible to get away with a light sentence, the anti adulteration law will cease to have any mean"
+      }
+    ]
+  },
+  {
+    "query": "principles of natural justice",
+    "original_v1_top_5": [
+      {
+        "rank": 1,
+        "case_id": "C2263",
+        "score": 0.4103,
+        "snippet": "Ranjan Kumar Etc. v State of Bihar and others Supreme Court of India 16 April 2014 C.A. Nos. 4455-4458 of 2009 with C.A. Nos. 4459-4462, 4463-4466, 44"
+      },
+      {
+        "rank": 2,
+        "case_id": "C843",
+        "score": 0.41,
+        "snippet": "State of Himachal Pradesh v Mushtaq Ahmad Supreme Court of India 26 March 2007 S.L.P. (Cr.) 1102 of 2007 The Judgment was delivered by : HON'BLE JUSTI"
+      },
+      {
+        "rank": 3,
+        "case_id": "C1808",
+        "score": 0.409,
+        "snippet": "Neelakantan And Bros. Construction v Superintending Engineer, National Highways,Salem And Ors. Supreme Court of India 16 August 1988 CIVIL APPELLATE J"
+      },
+      {
+        "rank": 4,
+        "case_id": "C2473",
+        "score": 0.4087,
+        "snippet": "State of Uttar Pradesh and others v Ashok Kumar Nigam Supreme Court of India 13 December 2012 C.A. Nos. 9029 of 2012, (Arising out of S.L.P. (Civil) N"
+      },
+      {
+        "rank": 5,
+        "case_id": "C660",
+        "score": 0.4052,
+        "snippet": "Bangalore Woollen, Cotton and Silk Mills Company, Limited v Dasappa (B) (Binny Mills Labour Union) and Others Supreme Court of India 3 February 1960 C"
+      }
+    ],
+    "bm25_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_007_chk_0010",
+        "case_id": "judgment_007",
+        "score": 15.5795
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_009_chk_0003",
+        "case_id": "judgment_009",
+        "score": 15.2011
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_007_chk_0013",
+        "case_id": "judgment_007",
+        "score": 11.6011
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_007_chk_0006",
+        "case_id": "judgment_007",
+        "score": 10.1591
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_009_chk_0004",
+        "case_id": "judgment_009",
+        "score": 8.7462
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_007_chk_0005",
+        "case_id": "judgment_007",
+        "score": 8.3681
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_044_chk_0009",
+        "case_id": "judgment_044",
+        "score": 8.2498
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_028_chk_0017",
+        "case_id": "judgment_028",
+        "score": 7.8002
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_007_chk_0007",
+        "case_id": "judgment_007",
+        "score": 7.1638
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_036_chk_0014",
+        "case_id": "judgment_036",
+        "score": 6.9255
+      }
+    ],
+    "dense_top_10": [
+      {
+        "rank": 1,
+        "chunk_id": "judgment_026_chk_0042",
+        "case_id": "judgment_026",
+        "score": 0.4983
+      },
+      {
+        "rank": 2,
+        "chunk_id": "judgment_007_chk_0010",
+        "case_id": "judgment_007",
+        "score": 0.4868
+      },
+      {
+        "rank": 3,
+        "chunk_id": "judgment_026_chk_0040",
+        "case_id": "judgment_026",
+        "score": 0.4706
+      },
+      {
+        "rank": 4,
+        "chunk_id": "judgment_007_chk_0007",
+        "case_id": "judgment_007",
+        "score": 0.4582
+      },
+      {
+        "rank": 5,
+        "chunk_id": "judgment_044_chk_0018",
+        "case_id": "judgment_044",
+        "score": 0.4536
+      },
+      {
+        "rank": 6,
+        "chunk_id": "judgment_013_chk_0025",
+        "case_id": "judgment_013",
+        "score": 0.4511
+      },
+      {
+        "rank": 7,
+        "chunk_id": "judgment_017_chk_0020",
+        "case_id": "judgment_017",
+        "score": 0.4402
+      },
+      {
+        "rank": 8,
+        "chunk_id": "judgment_036_chk_0014",
+        "case_id": "judgment_036",
+        "score": 0.4274
+      },
+      {
+        "rank": 9,
+        "chunk_id": "judgment_044_chk_0019",
+        "case_id": "judgment_044",
+        "score": 0.4264
+      },
+      {
+        "rank": 10,
+        "chunk_id": "judgment_007_chk_0006",
+        "case_id": "judgment_007",
+        "score": 0.4254
+      }
+    ],
+    "raw_transformer_scores_before_aggregation": [
+      {
+        "chunk_id": "judgment_007_chk_0010",
+        "case_id": "judgment_007",
+        "score": 0.414
+      },
+      {
+        "chunk_id": "judgment_026_chk_0042",
+        "case_id": "judgment_026",
+        "score": 0.4138
+      },
+      {
+        "chunk_id": "judgment_007_chk_0007",
+        "case_id": "judgment_007",
+        "score": 0.4196
+      },
+      {
+        "chunk_id": "judgment_007_chk_0006",
+        "case_id": "judgment_007",
+        "score": 0.4239
+      },
+      {
+        "chunk_id": "judgment_009_chk_0003",
+        "case_id": "judgment_009",
+        "score": 0.4081
+      }
+    ],
+    "final_maxp_top_5": [
+      {
+        "rank": 1,
+        "case_id": "judgment_007",
+        "best_chunk_id": "judgment_007_chk_0006",
+        "score": 0.4239,
+        "snippet": "defending himself, then, provided there is 'substantial' compliance with the outward forms of the law, mere mistakes in procedure, mere inconsequentia"
+      },
+      {
+        "rank": 2,
+        "case_id": "judgment_044",
+        "best_chunk_id": "judgment_044_chk_0019",
+        "score": 0.4224,
+        "snippet": "be circumspect while evaluating the evidence. But it would not be right in acquitting an accused person solely on account of the defect; to do so woul"
+      },
+      {
+        "rank": 3,
+        "case_id": "judgment_043",
+        "best_chunk_id": "judgment_043_chk_0005",
+        "score": 0.4183,
+        "snippet": "might either convict an innocent accused by accepting the plea of guilty or let off a guilty accused with a light sentence, thus, subverting the proce"
+      },
+      {
+        "rank": 4,
+        "case_id": "judgment_032",
+        "best_chunk_id": "judgment_032_chk_0001",
+        "score": 0.4167,
+        "snippet": "(i) whether investigation of the case is complete from all angles and case is fit to be tried on the basis of materials and report placed on record by"
+      },
+      {
+        "rank": 5,
+        "case_id": "judgment_036",
+        "best_chunk_id": "judgment_036_chk_0014",
+        "score": 0.4166,
+        "snippet": "inherent powers u/s. 482 of the Code which it said could be exercised by the High Court either to prevent abuse of the process of any court or otherwi"
+      }
+    ]
+  }
+]

@@ -7,10 +7,10 @@ import torch.nn as nn
 from typing import List, Dict, Any, Optional
 from transformers import AutoTokenizer
 
-# Configure logger
+
 logger = logging.getLogger("LegalSearchEngine")
 
-# Ensure project root directory is in sys.path
+
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)

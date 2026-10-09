@@ -1,0 +1,210 @@
+{
+  "timestamp": "2026-10-08 22:48:13",
+  "phase": "5A - Case-Level MaxP Aggregation Verification",
+  "queries": [
+    {
+      "query": "right to privacy under Article 21",
+      "duplicates_removed_flag": true,
+      "duplicates_removed_count": 33,
+      "total_latency": 1.2108,
+      "unique_top_5_cases": [
+        {
+          "rank": 1,
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "best_chunk_score": 0.4311,
+          "best_chunk_id": "judgment_036_chk_0004",
+          "section_type": "reasoning",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "if the article consists wholly or in part of any filthy, putrid, rotten, decomposed or diseased animal or, vegetable substance or is insect-infested or is otherwise unfit for human consumption; 8. Under clause (viiib) \"manufacture\" includes any proce..."
+        },
+        {
+          "rank": 2,
+          "case_id": "judgment_002",
+          "case_name": "Prabhakaran Nair, Etc. v State Of Tamil Nadu And Ors.",
+          "best_chunk_score": 0.4293,
+          "best_chunk_id": "judgment_002_chk_0020",
+          "section_type": "unknown",
+          "page_start": 8,
+          "page_end": 8,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_002.pdf",
+          "evidence_snippet": "landlord's rights is the acute shortage of accommodation and the consequent need to give protection to the tenants against unrestricted eviction. The nature, the form and the extent of the restrictions to be imposed on the landlord's right and the co..."
+        },
+        {
+          "rank": 3,
+          "case_id": "judgment_034",
+          "case_name": "art. 32 of the Constitution illustrates how an attempt has been made to circumvent the law\ndeclared by this Court in Triloki Nath & Another v. State of Jammu & Kashmir & Others,",
+          "best_chunk_score": 0.4276,
+          "best_chunk_id": "judgment_034_chk_0010",
+          "section_type": "order",
+          "page_start": 4,
+          "page_end": 4,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_034.pdf",
+          "evidence_snippet": "to express no opinion on their applicability. 10. The present petition shall stand allowed in the manner indicated above. The petitioners shall be entitled to their costs in this Court. Petition allowed...."
+        },
+        {
+          "rank": 4,
+          "case_id": "judgment_014",
+          "case_name": "Belsund Sugar Company Limited v State of Bihar and Others",
+          "best_chunk_score": 0.4224,
+          "best_chunk_id": "judgment_014_chk_0105",
+          "section_type": "unknown",
+          "page_start": 39,
+          "page_end": 40,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_014.pdf",
+          "evidence_snippet": "a complete exhaustive code or, in other words, expressly or impliedly evinced an intention to cover the whole field.\" and thereafter Section 18-G of the I.D.R. Act was considered and it was held as under : \"Even assuming that sugarcane was an article..."
+        },
+        {
+          "rank": 5,
+          "case_id": "judgment_008",
+          "case_name": "Minor P. Rajendran v State of Madras and Others",
+          "best_chunk_score": 0.4218,
+          "best_chunk_id": "judgment_008_chk_0007",
+          "section_type": "unknown",
+          "page_start": 3,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_008.pdf",
+          "evidence_snippet": "challenge to r. 5 must The next attack is on r. 8, which provides for district wise distribution of seats according to population of the district. This is attacked first on the ground that it violates Art. 15 (1) which lays down that there shall be n..."
+        }
+      ]
+    },
+    {
+      "query": "constitutional validity of preventive detention",
+      "duplicates_removed_flag": true,
+      "duplicates_removed_count": 32,
+      "total_latency": 1.1451,
+      "unique_top_5_cases": [
+        {
+          "rank": 1,
+          "case_id": "judgment_034",
+          "case_name": "art. 32 of the Constitution illustrates how an attempt has been made to circumvent the law\ndeclared by this Court in Triloki Nath & Another v. State of Jammu & Kashmir & Others,",
+          "best_chunk_score": 0.4311,
+          "best_chunk_id": "judgment_034_chk_0004",
+          "section_type": "unknown",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_034.pdf",
+          "evidence_snippet": "the expression \"class \" means a homogeneous section of the people grouped together because of certain likeness or common traits, and who are identifiable by some common attributes such as status, rank, occupation, residence in a locality, race, relig..."
+        },
+        {
+          "rank": 2,
+          "case_id": "judgment_002",
+          "case_name": "Prabhakaran Nair, Etc. v State Of Tamil Nadu And Ors.",
+          "best_chunk_score": 0.4216,
+          "best_chunk_id": "judgment_002_chk_0023",
+          "section_type": "unknown",
+          "page_start": 9,
+          "page_end": 9,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_002.pdf",
+          "evidence_snippet": "that the return from old and dilapidated buildings is very meagre and in several cases such buildings prove uneconomic for the landlords with the result that the condition of the building deteriorates and there are even collapses of such buildings. I..."
+        },
+        {
+          "rank": 3,
+          "case_id": "judgment_041",
+          "case_name": "Amita v Union of India and Another",
+          "best_chunk_score": 0.4196,
+          "best_chunk_id": "judgment_041_chk_0010",
+          "section_type": "facts",
+          "page_start": 4,
+          "page_end": 5,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_041.pdf",
+          "evidence_snippet": "the writ petitioner from appearing in the examination on the mere fact of disability which was not mentioned in the advertisement and which according to the writ petitioner is not an impediment for the post. We are therefore of the view that the acti..."
+        },
+        {
+          "rank": 4,
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "best_chunk_score": 0.4176,
+          "best_chunk_id": "judgment_036_chk_0014",
+          "section_type": "unknown",
+          "page_start": 6,
+          "page_end": 7,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "inherent powers u/s. 482 of the Code which it said could be exercised by the High Court either to prevent abuse of the process of any court or otherwise to secure the ends of justice. While laying down certain guidelines where the court will exercise..."
+        },
+        {
+          "rank": 5,
+          "case_id": "judgment_043",
+          "case_name": "Kasambhai Ardul Rehmanbhai Shaikh v State Of Gujarat & Anr.",
+          "best_chunk_score": 0.4167,
+          "best_chunk_id": "judgment_043_chk_0002",
+          "section_type": "unknown",
+          "page_start": 1,
+          "page_end": 2,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_043.pdf",
+          "evidence_snippet": "even in respect of an offence of adulteration, it is possible to get away with a light sentence, the anti adulteration law will cease to have any meaning and validity. 4. It will be mocked at by the people as a futile legislative exercise. Moreover, ..."
+        }
+      ]
+    },
+    {
+      "query": "principles of natural justice",
+      "duplicates_removed_flag": true,
+      "duplicates_removed_count": 31,
+      "total_latency": 1.2217,
+      "unique_top_5_cases": [
+        {
+          "rank": 1,
+          "case_id": "judgment_007",
+          "case_name": "R. V. Raveendran, J.\nLeave granted.\n1. An FIR was registered on 23.3.1996 on the statement of one Prakashi Devi. She stated that on the night of\n22",
+          "best_chunk_score": 0.4239,
+          "best_chunk_id": "judgment_007_chk_0006",
+          "section_type": "unknown",
+          "page_start": 3,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_007.pdf",
+          "evidence_snippet": "defending himself, then, provided there is 'substantial' compliance with the outward forms of the law, mere mistakes in procedure, mere inconsequential errors and omissions in the trial are regarded as venal by the Code and the trial is not vitiated ..."
+        },
+        {
+          "rank": 2,
+          "case_id": "judgment_044",
+          "case_name": "Sahabuddin and another v State of Assam",
+          "best_chunk_score": 0.4224,
+          "best_chunk_id": "judgment_044_chk_0019",
+          "section_type": "unknown",
+          "page_start": 9,
+          "page_end": 9,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_044.pdf",
+          "evidence_snippet": "be circumspect while evaluating the evidence. But it would not be right in acquitting an accused person solely on account of the defect; to do so would tantamount to playing into the hands of the investigation officer if the investigation is designed..."
+        },
+        {
+          "rank": 3,
+          "case_id": "judgment_043",
+          "case_name": "Kasambhai Ardul Rehmanbhai Shaikh v State Of Gujarat & Anr.",
+          "best_chunk_score": 0.4183,
+          "best_chunk_id": "judgment_043_chk_0005",
+          "section_type": "unknown",
+          "page_start": 2,
+          "page_end": 3,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_043.pdf",
+          "evidence_snippet": "might either convict an innocent accused by accepting the plea of guilty or let off a guilty accused with a light sentence, thus, subverting the process of law and frustrating the social objective and purpose of the anti adulteration statute. 8. This..."
+        },
+        {
+          "rank": 4,
+          "case_id": "judgment_032",
+          "case_name": "Hon'ble Justice V. S. Sirpurkar\nLeave granted.\n1. An extremely unusual order passed by the High Court has fallen for consideration in this appeal which has\nbeen filed on behalf of the appellant",
+          "best_chunk_score": 0.4167,
+          "best_chunk_id": "judgment_032_chk_0001",
+          "section_type": "issues",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_032.pdf",
+          "evidence_snippet": "(i) whether investigation of the case is complete from all angles and case is fit to be tried on the basis of materials and report placed on record by the Investigating Officer only or (ii) whether there are some loopholes and lacunae in the investig..."
+        },
+        {
+          "rank": 5,
+          "case_id": "judgment_036",
+          "case_name": "Pepsi Foods Limited and Another v Special Judicial Magistrate and",
+          "best_chunk_score": 0.4166,
+          "best_chunk_id": "judgment_036_chk_0014",
+          "section_type": "unknown",
+          "page_start": 6,
+          "page_end": 7,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\sample_pdfs\\judgment_036.pdf",
+          "evidence_snippet": "inherent powers u/s. 482 of the Code which it said could be exercised by the High Court either to prevent abuse of the process of any court or otherwise to secure the ends of justice. While laying down certain guidelines where the court will exercise..."
+        }
+      ]
+    }
+  ]
+}

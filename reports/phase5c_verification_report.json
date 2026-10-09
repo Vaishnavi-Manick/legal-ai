@@ -1,0 +1,867 @@
+{
+  "timestamp": "2026-10-08 23:59:33",
+  "phase": "5C - Full Corpus Index + V1-Compatible Head Chunking",
+  "corpus_docs": 2914,
+  "queries": [
+    {
+      "original_query": "right to privacy under Article 21",
+      "rewritten_query": "right to privacy under Article 21",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "bm25_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C393_chk_0000",
+          "case_id": "C393",
+          "score": 12.6576
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C872_chk_0000",
+          "case_id": "C872",
+          "score": 12.3517
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C393_chk_0001",
+          "case_id": "C393",
+          "score": 12.0182
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C1596_chk_0000",
+          "case_id": "C1596",
+          "score": 11.3526
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C872_chk_0001",
+          "case_id": "C872",
+          "score": 10.6785
+        },
+        {
+          "rank": 6,
+          "chunk_id": "C2500_chk_0000",
+          "case_id": "C2500",
+          "score": 10.4342
+        },
+        {
+          "rank": 7,
+          "chunk_id": "C1807_chk_0001",
+          "case_id": "C1807",
+          "score": 9.6866
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C2202_chk_0000",
+          "case_id": "C2202",
+          "score": 9.6719
+        },
+        {
+          "rank": 9,
+          "chunk_id": "C802_chk_0000",
+          "case_id": "C802",
+          "score": 8.9955
+        },
+        {
+          "rank": 10,
+          "chunk_id": "C184_chk_0001",
+          "case_id": "C184",
+          "score": 8.9533
+        }
+      ],
+      "dense_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C853_chk_0001",
+          "case_id": "C853",
+          "score": 0.4953
+        },
+        {
+          "rank": 2,
+          "chunk_id": "judgment_013_chk_0025",
+          "case_id": "judgment_013",
+          "score": 0.422
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C2522_chk_0001",
+          "case_id": "C2522",
+          "score": 0.4182
+        },
+        {
+          "rank": 4,
+          "chunk_id": "judgment_036_chk_0007",
+          "case_id": "judgment_036",
+          "score": 0.4117
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C2614_chk_0001",
+          "case_id": "C2614",
+          "score": 0.4007
+        },
+        {
+          "rank": 6,
+          "chunk_id": "C337_chk_0001",
+          "case_id": "C337",
+          "score": 0.3999
+        },
+        {
+          "rank": 7,
+          "chunk_id": "C1209_chk_0000",
+          "case_id": "C1209",
+          "score": 0.3998
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C879_chk_0001",
+          "case_id": "C879",
+          "score": 0.3912
+        },
+        {
+          "rank": 9,
+          "chunk_id": "judgment_014_chk_0067",
+          "case_id": "judgment_014",
+          "score": 0.3888
+        },
+        {
+          "rank": 10,
+          "chunk_id": "judgment_002_chk_0020",
+          "case_id": "judgment_002",
+          "score": 0.3861
+        }
+      ],
+      "rrf_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C393_chk_0001",
+          "case_id": "C393",
+          "rrf_score": 0.029206
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C393_chk_0000",
+          "case_id": "C393",
+          "rrf_score": 0.029052
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C2614_chk_0001",
+          "case_id": "C2614",
+          "rrf_score": 0.025694
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C1314_chk_0001",
+          "case_id": "C1314",
+          "rrf_score": 0.025074
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C1292_chk_0000",
+          "case_id": "C1292",
+          "rrf_score": 0.025035
+        }
+      ],
+      "hybrid_v1_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C2614",
+          "case_name": "State of Himachal Pradesh and others v High Court of Himachal Pradesh",
+          "maxp_score": 0.4695,
+          "best_chunk_id": "C2614_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2614.txt",
+          "evidence_snippet": "have been done in enforcement of the fundamental rights under Article 21 of the Constitution. 2. The High Court stated that although construction of all the roads mentioned in the petition is necessary, it directed the S..."
+        },
+        {
+          "rank": 2,
+          "case_id": "C393",
+          "case_name": "University Of Delhi & Anr. v Anand Vardhan Chandal",
+          "maxp_score": 0.4662,
+          "best_chunk_id": "C393_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C393.txt",
+          "evidence_snippet": "by the University sustain this petition under Article 226(1)(a) of the ConstitutionThese some what novel questions arise in this Writ Petition on the following facts\". 2. The High Court answered the first part of the que..."
+        },
+        {
+          "rank": 3,
+          "case_id": "C1314",
+          "case_name": "R.R. Gopal @ Nakeeran Gopal v Union of India and Others",
+          "maxp_score": 0.451,
+          "best_chunk_id": "C1314_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C1314.txt",
+          "evidence_snippet": "appropriate writ, order or directions and declare Section 4 of the Prevention of Terrorist Activities Act (Act 15 of 2002) as unconstitutional and void being violative of the rights under Article 14 and 21 of the Constit..."
+        },
+        {
+          "rank": 4,
+          "case_id": "C2249",
+          "case_name": "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others",
+          "maxp_score": 0.4435,
+          "best_chunk_id": "C2249_chk_0000",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2249.txt",
+          "evidence_snippet": "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others Supreme Court of India 9 July 1997 The Judgment was delivered by : J. S. Verma, J. 1. By this petition u/art. 32 of the Constitution challenge i..."
+        },
+        {
+          "rank": 5,
+          "case_id": "C853",
+          "case_name": "Randhir Singh v Union of India and Others",
+          "maxp_score": 0.4403,
+          "best_chunk_id": "C853_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C853.txt",
+          "evidence_snippet": "and 19 guarantee respectively the fundamental rights to equality before the law and equality of opportunity in the matter of public employment and Art. 32 provides the remedy for the enforcement of the fundamental rights..."
+        }
+      ],
+      "v1_baseline_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C2614",
+          "case_name": null,
+          "score": 0.4215,
+          "snippet": "State of Himachal Pradesh and others v High Court of Himachal Pradesh Supreme Court of India 4 October 1996 C.As. Nos. 1-990 of 1996 (Arising out of S.L.P. (C) No. 10704 of 1996) The Order of the Cour"
+        },
+        {
+          "rank": 2,
+          "case_id": "C393",
+          "case_name": null,
+          "score": 0.4121,
+          "snippet": "University Of Delhi & Anr. v Anand Vardhan Chandal Supreme Court of India 9 July 1996 Appeal (civil) 2163(NCM) of 1978 The Order of the Court was as follows : 1. A Division Bench of the Delhi High Cou"
+        },
+        {
+          "rank": 3,
+          "case_id": "C2243",
+          "case_name": null,
+          "score": 0.4096,
+          "snippet": "State of Madhya Pradesh v G. C. Mandawar Supreme Court of India 13 May 1954 Civil Appeal No. 2 of 1954. The Judgment was delivered by : T. L. Venkatarama Aiyyar, J. 1. The point for decision in this a"
+        },
+        {
+          "rank": 4,
+          "case_id": "C1119",
+          "case_name": null,
+          "score": 0.4083,
+          "snippet": "Bhau Ram v B. Baijnath Singh Supreme Court of India 7 March 1962 C.A. No. 270 of 1955 with C.A. No. 430 of 1958 and C.A. No. 595 of 1960 The Judgment was delivered by: K. N. Wanchoo, J. 1. These three"
+        },
+        {
+          "rank": 5,
+          "case_id": "C885",
+          "case_name": null,
+          "score": 0.4079,
+          "snippet": "Pradyuman Bisht v Union of India and others Supreme Court of India 14 August 2017 Writ Petition(s)(Criminal) No(s). 99/2015, IA 10142/2015 10713/2015 and IA No. 67042/2017-Clarification/Direction) The"
+        }
+      ],
+      "landmarks_checked": [
+        "C2643",
+        "C2411",
+        "C1902",
+        "C2814"
+      ],
+      "hybrid_landmarks_in_top5": [],
+      "v1_landmarks_in_top5": [],
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0974,
+        "dense_time": 0.0797,
+        "rrf_time": 0.0002,
+        "reranker_time": 0.8014,
+        "total_time": 0.9788
+      },
+      "used_fallback": false,
+      "fallback_reason": null
+    },
+    {
+      "original_query": "constitutional validity of preventive detention",
+      "rewritten_query": "constitutional validity of preventive detention",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "bm25_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C2494_chk_0001",
+          "case_id": "C2494",
+          "score": 13.8212
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C2494_chk_0000",
+          "case_id": "C2494",
+          "score": 12.8719
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C1731_chk_0001",
+          "case_id": "C1731",
+          "score": 12.7518
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C2257_chk_0001",
+          "case_id": "C2257",
+          "score": 12.7518
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C2093_chk_0000",
+          "case_id": "C2093",
+          "score": 11.9761
+        },
+        {
+          "rank": 6,
+          "chunk_id": "C779_chk_0000",
+          "case_id": "C779",
+          "score": 11.1465
+        },
+        {
+          "rank": 7,
+          "chunk_id": "C2616_chk_0000",
+          "case_id": "C2616",
+          "score": 10.9343
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C1824_chk_0000",
+          "case_id": "C1824",
+          "score": 10.7898
+        },
+        {
+          "rank": 9,
+          "chunk_id": "C2509_chk_0000",
+          "case_id": "C2509",
+          "score": 10.6864
+        },
+        {
+          "rank": 10,
+          "chunk_id": "C1108_chk_0000",
+          "case_id": "C1108",
+          "score": 10.1822
+        }
+      ],
+      "dense_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C1658_chk_0001",
+          "case_id": "C1658",
+          "score": 0.6157
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C2257_chk_0001",
+          "case_id": "C2257",
+          "score": 0.5967
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C761_chk_0001",
+          "case_id": "C761",
+          "score": 0.5838
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C1208_chk_0001",
+          "case_id": "C1208",
+          "score": 0.5826
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C737_chk_0001",
+          "case_id": "C737",
+          "score": 0.5813
+        },
+        {
+          "rank": 6,
+          "chunk_id": "C2093_chk_0000",
+          "case_id": "C2093",
+          "score": 0.5758
+        },
+        {
+          "rank": 7,
+          "chunk_id": "C810_chk_0001",
+          "case_id": "C810",
+          "score": 0.5732
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C2509_chk_0000",
+          "case_id": "C2509",
+          "score": 0.5658
+        },
+        {
+          "rank": 9,
+          "chunk_id": "C2009_chk_0001",
+          "case_id": "C2009",
+          "score": 0.5597
+        },
+        {
+          "rank": 10,
+          "chunk_id": "judgment_013_chk_0029",
+          "case_id": "judgment_013",
+          "score": 0.5495
+        }
+      ],
+      "rrf_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C2257_chk_0001",
+          "case_id": "C2257",
+          "rrf_score": 0.031754
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C2093_chk_0000",
+          "case_id": "C2093",
+          "rrf_score": 0.030536
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C1208_chk_0001",
+          "case_id": "C1208",
+          "rrf_score": 0.029324
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C2509_chk_0000",
+          "case_id": "C2509",
+          "rrf_score": 0.029199
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C2494_chk_0001",
+          "case_id": "C2494",
+          "rrf_score": 0.025827
+        }
+      ],
+      "hybrid_v1_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C1208",
+          "case_name": "Julia Jose Mavely v Union of India and Others",
+          "maxp_score": 0.4586,
+          "best_chunk_id": "C1208_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C1208.txt",
+          "evidence_snippet": "Smuggling Activities Act, 1974 (hereinafter referred to as the 'Act') directing the petitioner/detenu to be detained and kept in custody in the abovesaid prison with a view to preventing the detenu from smuggling goods a..."
+        },
+        {
+          "rank": 2,
+          "case_id": "C2257",
+          "case_name": "Smt. Pushpa v Union of India and Others",
+          "maxp_score": 0.4545,
+          "best_chunk_id": "C2257_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2257.txt",
+          "evidence_snippet": "short). 2. Validity of the detention of the detenu has been questioned inter alia on the following grounds : \"1. Two representations dated February 23 and March 27, 1979 made by the detenu have been dealt with and reject..."
+        },
+        {
+          "rank": 3,
+          "case_id": "C2509",
+          "case_name": "Prabhakar Shankar Dhuri v Sh. S. G. Pradhan and Others",
+          "maxp_score": 0.446,
+          "best_chunk_id": "C2509_chk_0000",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2509.txt",
+          "evidence_snippet": "Prabhakar Shankar Dhuri v Sh. S. G. Pradhan and Others Supreme Court of India 18 December 1970 W.P. No. 514 of 1970. The Judgment was delivered by: SHAH, J. 1. We have heard detailed arguments on the questions whether th..."
+        },
+        {
+          "rank": 4,
+          "case_id": "C2494",
+          "case_name": "Sharad Kumar Tyagi v State Of Uttar Pradesh And Ors.",
+          "maxp_score": 0.4364,
+          "best_chunk_id": "C2494_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2494.txt",
+          "evidence_snippet": "the petitioner u/s. 3(2) of the Act but the petitioner could not be served the order of detention and taken into preventive custody as he was absconding. Consequently he was treated an absconder and resort was had to S. ..."
+        },
+        {
+          "rank": 5,
+          "case_id": "C2093",
+          "case_name": "Choith Nanikram Harchandani and another v State of Maharashtra and others",
+          "maxp_score": 0.4351,
+          "best_chunk_id": "C2093_chk_0000",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2093.txt",
+          "evidence_snippet": "Choith Nanikram Harchandani and another v State of Maharashtra and others Supreme Court of India 20 November 2015 Writ Petition (Crl.) No. 134 of 2015 With Special Leave Petition (Crl.) No. 7010 of 2015 The Judgment was ..."
+        }
+      ],
+      "v1_baseline_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C2249",
+          "case_name": null,
+          "score": 0.4207,
+          "snippet": "Anukul Chandra Pradhan, Advocate, Supreme Court v Union Of India And Others Supreme Court of India 9 July 1997 The Judgment was delivered by : J. S. Verma, J. 1. By this petition u/art. 32 of the Cons"
+        },
+        {
+          "rank": 2,
+          "case_id": "C1235",
+          "case_name": null,
+          "score": 0.4122,
+          "snippet": "Debendra Nath Goswami v State of West Bengal Supreme Court of India 31 October 1972 W.P. No. 258 of 1972. The Judgment was delivered by: DUA, J. 1. Debendra Nath Goswami forwarded through Dum Dum Cent"
+        },
+        {
+          "rank": 3,
+          "case_id": "C810",
+          "case_name": null,
+          "score": 0.4106,
+          "snippet": "Khudiram Das v State of West Bengal and Others Supreme Court of India 26 November 1974 W.P. No. 324 of 1974 The Judgment was delivered by : Hon'ble Justice P. N. Bhagwati 1. This is a petition for a w"
+        },
+        {
+          "rank": 4,
+          "case_id": "C1111",
+          "case_name": null,
+          "score": 0.4098,
+          "snippet": "Niranjan Singh v State Of Madhya-Pradesh Supreme Court of India 18 July 1972 Writ Petition No. 450 of 1971. The Judgment was delivered by: P. Jaganmohan Reddy, J. 1. By this application under Art. 32 "
+        },
+        {
+          "rank": 5,
+          "case_id": "C1332",
+          "case_name": null,
+          "score": 0.4074,
+          "snippet": "Shri Saleh Mohammed v Union of India and Others Supreme Court of India 3 September 1980 W.P. (Criminal) No. 2192 of 1980. The Judgment was delivered by: SARKARIA, J. 1. This is a petition u/art. 32 of"
+        }
+      ],
+      "landmarks_checked": [
+        "C2249",
+        "C1235",
+        "C810",
+        "C1111",
+        "C1332"
+      ],
+      "hybrid_landmarks_in_top5": [],
+      "v1_landmarks_in_top5": [
+        "C2249",
+        "C1235",
+        "C810",
+        "C1111",
+        "C1332"
+      ],
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0161,
+        "dense_time": 0.0634,
+        "rrf_time": 0.0003,
+        "reranker_time": 0.9671,
+        "total_time": 1.047
+      },
+      "used_fallback": false,
+      "fallback_reason": null
+    },
+    {
+      "original_query": "principles of natural justice",
+      "rewritten_query": "principles of natural justice",
+      "was_rewritten": false,
+      "rewrite_reason": "query_rewrite_disabled_in_config",
+      "bm25_succeeded": true,
+      "dense_succeeded": true,
+      "bm25_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C1530_chk_0001",
+          "case_id": "C1530",
+          "score": 22.0309
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C219_chk_0000",
+          "case_id": "C219",
+          "score": 16.0988
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C660_chk_0001",
+          "case_id": "C660",
+          "score": 15.877
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C53_chk_0001",
+          "case_id": "C53",
+          "score": 10.3332
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C345_chk_0000",
+          "case_id": "C345",
+          "score": 9.9023
+        },
+        {
+          "rank": 6,
+          "chunk_id": "C345_chk_0001",
+          "case_id": "C345",
+          "score": 9.5911
+        },
+        {
+          "rank": 7,
+          "chunk_id": "C229_chk_0001",
+          "case_id": "C229",
+          "score": 9.299
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C1126_chk_0000",
+          "case_id": "C1126",
+          "score": 8.7803
+        },
+        {
+          "rank": 9,
+          "chunk_id": "C1126_chk_0001",
+          "case_id": "C1126",
+          "score": 8.6937
+        },
+        {
+          "rank": 10,
+          "chunk_id": "C313_chk_0000",
+          "case_id": "C313",
+          "score": 8.5529
+        }
+      ],
+      "dense_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "judgment_026_chk_0042",
+          "case_id": "judgment_026",
+          "score": 0.4983
+        },
+        {
+          "rank": 2,
+          "chunk_id": "judgment_007_chk_0010",
+          "case_id": "judgment_007",
+          "score": 0.4868
+        },
+        {
+          "rank": 3,
+          "chunk_id": "judgment_026_chk_0040",
+          "case_id": "judgment_026",
+          "score": 0.4706
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C1762_chk_0000",
+          "case_id": "C1762",
+          "score": 0.469
+        },
+        {
+          "rank": 5,
+          "chunk_id": "judgment_007_chk_0007",
+          "case_id": "judgment_007",
+          "score": 0.4582
+        },
+        {
+          "rank": 6,
+          "chunk_id": "judgment_044_chk_0018",
+          "case_id": "judgment_044",
+          "score": 0.4536
+        },
+        {
+          "rank": 7,
+          "chunk_id": "judgment_013_chk_0025",
+          "case_id": "judgment_013",
+          "score": 0.4511
+        },
+        {
+          "rank": 8,
+          "chunk_id": "C2489_chk_0001",
+          "case_id": "C2489",
+          "score": 0.4451
+        },
+        {
+          "rank": 9,
+          "chunk_id": "judgment_017_chk_0020",
+          "case_id": "judgment_017",
+          "score": 0.4402
+        },
+        {
+          "rank": 10,
+          "chunk_id": "C804_chk_0001",
+          "case_id": "C804",
+          "score": 0.4397
+        }
+      ],
+      "rrf_top_10": [
+        {
+          "rank": 1,
+          "chunk_id": "C1459_chk_0000",
+          "case_id": "C1459",
+          "rrf_score": 0.027598
+        },
+        {
+          "rank": 2,
+          "chunk_id": "C1459_chk_0001",
+          "case_id": "C1459",
+          "rrf_score": 0.025992
+        },
+        {
+          "rank": 3,
+          "chunk_id": "C976_chk_0001",
+          "case_id": "C976",
+          "rrf_score": 0.025158
+        },
+        {
+          "rank": 4,
+          "chunk_id": "C2503_chk_0001",
+          "case_id": "C2503",
+          "rrf_score": 0.023972
+        },
+        {
+          "rank": 5,
+          "chunk_id": "C2882_chk_0000",
+          "case_id": "C2882",
+          "rrf_score": 0.021934
+        }
+      ],
+      "hybrid_v1_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C1459",
+          "case_name": "Mahadeo Sahni and Others v State of Bihar",
+          "maxp_score": 0.4546,
+          "best_chunk_id": "C1459_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C1459.txt",
+          "evidence_snippet": "situation stands out to be a basic tenet in the Indian jurisprudential system and the approach being justice oriented the interest of justice would prompt this Court to rise to the occasion and thus there being a rule st..."
+        },
+        {
+          "rank": 2,
+          "case_id": "C976",
+          "case_name": "Arun Shankar Shukla v State of Uttar Pradesh and Others",
+          "maxp_score": 0.4525,
+          "best_chunk_id": "C976_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C976.txt",
+          "evidence_snippet": "the High Court has inherent powers to make such orders as may be necessary to give effect to any order under the Code or to prevent the abuse of process of any Court or otherwise to secure the ends of justice. But the ex..."
+        },
+        {
+          "rank": 3,
+          "case_id": "C2503",
+          "case_name": "Delhi Development Authority v Skipper Construction And Anr",
+          "maxp_score": 0.4499,
+          "best_chunk_id": "C2503_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C2503.txt",
+          "evidence_snippet": "entitled to relief. Courts, more particularly, this Court will not abjure its duty to prevent violent miscarriage of justice by passing such orders as are necessary to uphold the rule of law and lift the veil of purporte..."
+        },
+        {
+          "rank": 4,
+          "case_id": "C1126",
+          "case_name": "Petroleum and Natural Gas Regulatory Board v Indraprastha Gas Limited and others",
+          "maxp_score": 0.4343,
+          "best_chunk_id": "C1126_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C1126.txt",
+          "evidence_snippet": "not empowered to fix or regulate the maximum retail price at which gas is to be sold by entities such as Indraprastha Gas Ltd, to the consumers and further the Board is also not empowered to fix any component of network ..."
+        },
+        {
+          "rank": 5,
+          "case_id": "C804",
+          "case_name": "Ganpat Ladha v Sashikant Vishnu Shinde",
+          "maxp_score": 0.4322,
+          "best_chunk_id": "C804_chk_0001",
+          "section_type": "head_chunk",
+          "page_start": 1,
+          "page_end": 1,
+          "source_pdf_path": "C:\\Users\\vaish\\legal ai\\data\\raw\\AILA2019\\Object_casedocs\\C804.txt",
+          "evidence_snippet": "every conceivable as well as inconceivable aspect of it has been explored and subjected to forensic debate. Even the staunchest exponents of legal realism, who are apt to treat the quest for certainty in the administrati..."
+        }
+      ],
+      "v1_baseline_top_5": [
+        {
+          "rank": 1,
+          "case_id": "C2263",
+          "case_name": null,
+          "score": 0.4103,
+          "snippet": "Ranjan Kumar Etc. v State of Bihar and others Supreme Court of India 16 April 2014 C.A. Nos. 4455-4458 of 2009 with C.A. Nos. 4459-4462, 4463-4466, 4471-4474, 4467-4470, 4477-4480 and 4475-4476 of 200"
+        },
+        {
+          "rank": 2,
+          "case_id": "C843",
+          "case_name": null,
+          "score": 0.41,
+          "snippet": "State of Himachal Pradesh v Mushtaq Ahmad Supreme Court of India 26 March 2007 S.L.P. (Cr.) 1102 of 2007 The Judgment was delivered by : HON'BLE JUSTICE DR. ARIJIT PASAYAT 1. Challenge in this special"
+        },
+        {
+          "rank": 3,
+          "case_id": "C1808",
+          "case_name": null,
+          "score": 0.409,
+          "snippet": "Neelakantan And Bros. Construction v Superintending Engineer, National Highways,Salem And Ors. Supreme Court of India 16 August 1988 CIVIL APPELLATE JURISDICTION: Special Leave Petition [Civil) Nos. 1"
+        },
+        {
+          "rank": 4,
+          "case_id": "C2473",
+          "case_name": null,
+          "score": 0.4087,
+          "snippet": "State of Uttar Pradesh and others v Ashok Kumar Nigam Supreme Court of India 13 December 2012 C.A. Nos. 9029 of 2012, (Arising out of S.L.P. (Civil) Nos. 35279 of 2009), C.A. No. 9030 of 2012, [Arisin"
+        },
+        {
+          "rank": 5,
+          "case_id": "C660",
+          "case_name": null,
+          "score": 0.4052,
+          "snippet": "Bangalore Woollen, Cotton and Silk Mills Company, Limited v Dasappa (B) (Binny Mills Labour Union) and Others Supreme Court of India 3 February 1960 C.A. Nos. 211 and 212 of 1958, The Judgment was del"
+        }
+      ],
+      "landmarks_checked": [
+        "C2263",
+        "C843",
+        "C1808",
+        "C2473",
+        "C660"
+      ],
+      "hybrid_landmarks_in_top5": [],
+      "v1_landmarks_in_top5": [
+        "C2263",
+        "C843",
+        "C1808",
+        "C2473",
+        "C660"
+      ],
+      "latencies": {
+        "router_time": 0.0,
+        "rewrite_time": 0.0,
+        "bm25_time": 0.0072,
+        "dense_time": 0.0582,
+        "rrf_time": 0.0001,
+        "reranker_time": 0.8196,
+        "total_time": 0.8852
+      },
+      "used_fallback": false,
+      "fallback_reason": null
+    }
+  ]
+}
